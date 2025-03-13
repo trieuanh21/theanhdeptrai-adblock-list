@@ -1,11 +1,1 @@
-animevietsub.lol##.ad-center-header.Adv > center
-animevietsub.lol##.pc_catfix_adv
-animevietsub.lol##.below-player
-animevietsub.lol##.ads_player.Ads
-animevietsub.lol##.ad-center-1110.Ads > center
-animevietsub.lol##.mobile-catfish-top
-animevietsub.lol##.ad-center-header.Adv
-animevietsub.lol###invideo_wrapper
-animevietsub.lol##.bellow_ads_player.Ads
-animevietsub.lol##.mobile-catfixx
-animevietsub.lol##.ad-center-1110.Ads
+
