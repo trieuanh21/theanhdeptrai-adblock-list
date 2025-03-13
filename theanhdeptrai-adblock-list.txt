@@ -9,4 +9,3 @@ animevietsub.lol###invideo_wrapper
 animevietsub.lol##.bellow_ads_player.Ads
 animevietsub.lol##.mobile-catfixx
 animevietsub.lol##.ad-center-1110.Ads
-animevietsub.lol##.announcement
